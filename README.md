@@ -31,12 +31,14 @@ An advanced AI-powered career recommendation web application built using Python 
 - Streamlit
 - Pandas
 
+## 🚀 Live Demo
+
+https://ai-agent-aj9t634zfw8zgynlt6kkjz.streamlit.app/
+
 ## ▶️ Run Locally
 
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
 
-## Live Demo
-[https://yourapp.streamlit.app](https://ai-agent-aj9t634zfw8zgynlt6kkjz.streamlit.app/)
 
